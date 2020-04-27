@@ -8,6 +8,8 @@ gk
 some more:
 pre
 post
+from another
 
 end
+end from another
 end from master
